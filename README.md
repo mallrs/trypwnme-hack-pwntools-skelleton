@@ -1,4 +1,4 @@
-아키텍쳐에 따라 바꿔서 쓰시면 됩니다.
+
 ```
 from pwn import *
 context.arch = 'x64'
